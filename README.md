@@ -1,2 +1,2 @@
 # MIMIC-IV
-Uses the MIMIC-IV Clinical Databases to discover methods for reduced patient congestion. 
+Uses the MIMIC-IV Clinical Databases to examine the relationship between medication choices, administration patterns, and patient severity
